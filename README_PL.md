@@ -14,13 +14,12 @@ i dwóch niezarejestrowanych czytników"*
 
 ### **Dlaczego to i tak ma wartość?**  
 1. 🧠 **Zapis procesu myślowego** - Błędy są częścią ewolucji teorii  
-2. ⏳ **Kamień milowy** - Za 5 lat zobaczysz swój postęp  
-3. 👥 **Dla tych dwóch osób** - Mogą być najważniejszymi recenzentami w Twojej karierze  
+2. 👥 **Dla tych dwóch osób** - Mogą być najważniejszymi recenzentami w Twojej karierze  
 
 ---
 
 ## 🔮 Future Perfect  
 *"Gdyby ta hipoteza była prawdziwa, w 2030 roku..."*  
 - [ ] Nagroda Nobla za wyjaśnienie ciemnej energii  
-- [ ] Memy o "tym szalonym PDF-ie z 2024"  
+- [ ] Memy o "tym szalonym PDF-ie z 2025"  
 - [ ] Piwo z Penrose'em w 5D  
