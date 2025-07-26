@@ -2,7 +2,11 @@
 Cosmological redshift as emergent from variable fundamental constants  
 # Adhesive Redshift Hypothesis 
 [![PDF](https://img.shields.io/badge/Download-PDF-blue)](https://github.com/ArkOkupski-WAT/Adhesive-Redshift-Hypothesis/raw/main/Hipoteza_Redshiftu_Adhezyjnego_pl.pdf)
-**Theoretical framework proposing:**  
+**Wersja w języku polskim:**  
+
+[![PDF](https://img.shields.io/badge/Download-PDF-blue)](https://github.com/ArkOkupski-WAT/Adhesive-Redshift-Hypothesis/raw/main/Hipoteza_Redshiftu_Adhezyjnego_eng.pdf)
+**English version**
+
 - 🌌 Novel 5D spacetime geometry with hyperspherical boundary (SNP)  
 - 🔴 Cosmological redshift as emergent from variable fundamental constants  
 - ⚡ Dark energy as curvature energy discharge  
